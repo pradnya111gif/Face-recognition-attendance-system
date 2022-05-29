@@ -2,7 +2,7 @@
 
 This repository has a code for facial recognition which has been built with OpenCV and Python. Tkinter has been used for GUI interface. This attendance system could be used in schools, colleges and for employees. 
 
-The project contain 3 parts-
+The project has 3 parts-
 1. Creation of dataset.
 2. Traning of the dataset.
 3. Tracking of images through the live camera.
